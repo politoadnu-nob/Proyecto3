@@ -5,6 +5,10 @@ public class Boligrafo {
     private String color;
     private String marca;
 
+    public Boligrafo(){
+        
+    }
+
     public Boligrafo(String codigo, String color, String marca) {
         this.codigo = codigo;
         this.color = color;
