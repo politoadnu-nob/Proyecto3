@@ -6,7 +6,7 @@ public class Boligrafo {
     private String marca;
 
     public Boligrafo(){
-        
+        color="negro";
     }
 
     public Boligrafo(String codigo, String color, String marca) {
